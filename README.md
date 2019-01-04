@@ -1,4 +1,4 @@
-# DevConnector
+# DevConnect
 
 > Small social network app built with the MERN stack. This is part of my "MERN Stack Front To Back" Udemy course
 
@@ -22,5 +22,5 @@ npm run client
 
 # Server runs on http://localhost:5000 and client on http://localhost:3000
 ```
-## devconnect
+## Devconnect
 # Made By SHUBHAM CHINDA
